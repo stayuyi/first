@@ -9,6 +9,6 @@ public class GitTest1 {
         System.out.println("this is second Class");
 
         System.out.println("last commit");
-
+        System.out.println("test version 1");
     }
 }
