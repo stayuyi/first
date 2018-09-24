@@ -7,5 +7,8 @@ package cn.base;
 public class GitTest1 {
     public static void main(String[] args) {
         System.out.println("this is second Class");
+
+        System.out.println("last commit");
+
     }
 }
